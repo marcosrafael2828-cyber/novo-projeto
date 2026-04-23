@@ -1,0 +1,4 @@
+anotaçoes
+ direção da bola : randomize() e direction = random_range(0,359);faz a bola
+ ir para qualquer lugar 
+ a bola vai em direçãoes desejadas 45,135,225,315
