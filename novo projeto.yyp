@@ -16,6 +16,7 @@
     {"id":{"name":"obj_botao1","path":"objects/obj_botao1/obj_botao1.yy",},"order":6,},
     {"id":{"name":"Spr_fundo","path":"sprites/Spr_fundo/Spr_fundo.yy",},"order":0,},
     {"id":{"name":"raquete1","path":"objects/raquete1/raquete1.yy",},"order":0,},
+    {"id":{"name":"bola2","path":"objects/bola2/bola2.yy",},"order":9,},
     {"id":{"name":"spr_colisao","path":"sprites/spr_colisao/spr_colisao.yy",},"order":6,},
     {"id":{"name":"snd_bola","path":"sounds/snd_bola/snd_bola.yy",},"order":0,},
     {"id":{"name":"spr_botao1","path":"sprites/spr_botao1/spr_botao1.yy",},"order":8,},
