@@ -1,7 +1,7 @@
 /// @description Inserir descrição aqui
 // Você pode escrever seu código neste editor
-show_debug_message("perdeu")
-game_end()
+
+
 
 
 
