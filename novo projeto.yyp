@@ -25,6 +25,7 @@
     {"id":{"name":"spr_raquete3","path":"sprites/spr_raquete3/spr_raquete3.yy",},"order":10,},
     {"id":{"name":"obj_gol","path":"objects/obj_gol/obj_gol.yy",},"order":4,},
     {"id":{"name":"Note1","path":"notes/Note1/Note1.yy",},"order":0,},
+    {"id":{"name":"Object10","path":"objects/Object10/Object10.yy",},"order":9,},
     {"id":{"name":"spr_bola","path":"sprites/spr_bola/spr_bola.yy",},"order":5,},
     {"id":{"name":"Spr_rosto","path":"sprites/Spr_rosto/Spr_rosto.yy",},"order":1,},
     {"id":{"name":"obj_botao2","path":"objects/obj_botao2/obj_botao2.yy",},"order":7,},
